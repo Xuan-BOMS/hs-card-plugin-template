@@ -1,6 +1,12 @@
-## hs-card-plugin-template
+## mystery-mage-plugin (奥秘法卡牌插件)
 
-此项目为[Hearthstone-Script](https://github.com/xjw580/Hearthstone-Script)的卡牌插件模板
+此项目为[Hearthstone-Script](https://github.com/xjw580/Hearthstone-Script)的卡牌插件
+
+**插件描述**：奥秘法卡组的卡牌适配插件，用于支持 MCTS 策略
+
+**作者**：玄
+
+**仓库地址**：https://github.com/Xuan-BOMS/hs-card-plugin-template
 
 
 

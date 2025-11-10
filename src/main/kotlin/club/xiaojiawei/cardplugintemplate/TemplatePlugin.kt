@@ -4,8 +4,8 @@ import club.xiaojiawei.hsscriptcardsdk.CardPlugin
 import club.xiaojiawei.hsscriptpluginsdk.config.PluginScope
 
 /**
- * @author 肖嘉威
- * @date 2024/9/8 14:57
+ * @author Xuan
+ * @date 2025/11/10
  */
 class TemplatePlugin : CardPlugin {
     override fun description(): String = "奥秘法"
@@ -21,7 +21,7 @@ class TemplatePlugin : CardPlugin {
     /**
      * 插件主页
      */
-    override fun homeUrl(): String = "https://github.com/xjw580/hs-card-plugin-template.git"
+    override fun homeUrl(): String = "https://github.com/Xuan-BOMS/hs-card-plugin-template"
 
     /**
      * 使用的卡牌SDK版本

@@ -9,11 +9,11 @@
         <version>v4.11.0-GA</version>
     </parent>
 
-    <groupId>com.github.xjw580</groupId>
-    <artifactId>hs-card-plugin-template</artifactId>
-    <version>1.1.0</version>
+    <groupId>com.github.Xuan-BOMS</groupId>
+    <artifactId>mystery-mage-plugin</artifactId>
+    <version>1.0.0</version>
 
-    <name>hs-card-plugin-template</name>
+    <name>mystery-mage-plugin</name>
 
     <repositories>
         <repository>
@@ -66,7 +66,6 @@
                             <outputDirectory>${project.build.directory}/generated-sources/version</outputDirectory>
                             <resources>
                                 <resource>
-                                    <!--todo 包名换成自己的，减少冲突的概率-->
                                     <directory>src/main/resources-filtered/club/xiaojiawei/cardplugintemplate
                                     </directory>
                                     <includes>

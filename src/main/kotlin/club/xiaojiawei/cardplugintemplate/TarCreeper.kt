@@ -11,7 +11,6 @@ import club.xiaojiawei.hsscriptcardsdk.bean.War
 private val cardIds = arrayOf<String>(
     "%UNG_928",
 )
-
 class TarCreeper : CardAction.DefaultCardAction() {
 
     override fun triggerTurnStart(war: War) {
