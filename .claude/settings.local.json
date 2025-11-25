@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "WebSearch",
-      "WebFetch(domain:hearthstone.huijiwiki.com)"
+      "WebFetch(domain:hearthstone.huijiwiki.com)",
+      "Bash(dir:*)",
+      "Bash(mvn:*)",
+      "Bash(java:*)",
+      "Bash(where mvn)"
     ],
     "deny": [],
     "ask": []
